@@ -1,0 +1,140 @@
+Identifier	Character	Dialogue	Filename	Line Number
+start_da788ff9	mateo	Urrgh...How long was I napping for?	game/script.rpy	17
+start_2c5f54d3		An ominous silence envelopes the hazy surroundings.	game/script.rpy	18
+start_8eb13421	mateo	Wait...where am I?	game/script.rpy	19
+start_95048e95		The haze lifts to reveal a familiar laboratory	game/script.rpy	20
+start_ad7d0726	mateo	Why am I at the IM Lab? Wasn’t I in my dorm coding shaders?	game/script.rpy	21
+start_14a9487f		It was indeed the IM lab, but something seemed off….	game/script.rpy	22
+start_ea86dacd	mateo	HOLD ON - WHAT THE FUCK	game/script.rpy	23
+start_ecb12fd9	mateo	WHERE IS ALL THE COLOUR??!!?	game/script.rpy	24
+start_c30e015f	ukn	There you are!	game/script.rpy	25
+start_30d0add8	ukn	Mateo!	game/script.rpy	26
+start_d7ac5337		Two people made only of wireframes run to you from the doorway	game/script.rpy	27
+start_f03960a3	wire1	Mateo, you're the only one who can help us!	game/script.rpy	28
+start_bbadff16	wire2	The reason everything looks like this is because there are no more shaders!	game/script.rpy	29
+start_69d38ddd	mateo	What......	game/script.rpy	30
+start_94629d3d	mateo	...........	game/script.rpy	31
+start_871922dd	mateo	.......................	game/script.rpy	32
+start_a4eb2ebe	mateo	WHAT DO YOU MEAN NO MORE SHADERSSSSSSSS?!?!?!?!?!?!?!	game/script.rpy	33
+start_5f6c90f8	wire1	 All the shaders have been stolen from this world by an entity known only as Le Monsieur	game/script.rpy	34
+start_f0e5d7bb	wire2	Each shader has been imprisoned in a different location, take this mip_map, it will lead you to them.	game/script.rpy	35
+start_62c8d264	mateo	Uhhh that’s not what a mip_map does...	game/script.rpy	36
+start_11d58130	wire1	 Dude just go with it, we’re kinda of in a situation here	game/script.rpy	37
+start_05677ed2		Do you take the mip_map anyways?	game/script.rpy	38
+Nope_cb7648b6	wire1	Uh oh, this is unexpected	game/script.rpy	46
+Nope_fc595b03	wire2	I guess we'll come back later then	game/script.rpy	47
+Nope_821da253		A few hours later in a shaderless void	game/script.rpy	48
+Nope_7aaed5e1	wire2	Are you ready now?	game/script.rpy	49
+Yep_4ad74243	wire1	Good luck! And, watch out for Le Monsieur, he is very powerful and dangerous	game/script.rpy	55
+Yep_4e7f587b	wire2	Especially with his all consuming sass	game/script.rpy	56
+Yep_0ac0e98e	mateo	I guess I have to save these shaderlords now	game/script.rpy	57
+Yep_8f8b9198	mateo	Shmerp	game/script.rpy	58
+Yep_e2e06918	mateo	If I'm gonna defeat this Le Moose guy-	game/script.rpy	59
+Yep_c6108b8c		It's Le Monsieur	game/script.rpy	60
+Yep_6dde5797	mateo	Whatever. If I'm gonna defeat him....I need coffee	game/script.rpy	61
+Yep_881aa3b3	mateo	COFFFFEEEEEEEEEEEEE	game/script.rpy	62
+Yep_a12d08a2		You make your way up to the Library Cafe. If you had only checked your mip_map before rushing there, you would know that there was far more in store for you than just an Iced Cafe Latte with hazelnut syrup	game/script.rpy	63
+Yep_4a1bb5f8	mateo	Wat? Okay whatever, I’ll check the miMAP later, right now I just want coffee.	game/script.rpy	64
+Yep_37239713		You enter the Library Cafe, still unaware of what you’re walking into	game/script.rpy	65
+Yep_af211de1	alia	Mateo! Finally!	game/script.rpy	66
+Yep_7d6f230a	mateo	Wait, you know me?	game/script.rpy	67
+Yep_0ed8ca4c	ale	Of course we do! And we’ve been waiting for you for a long time! We’re trapped in bad Open Frameworks code, and you need to free us!	game/script.rpy	68
+Yep_1605e639	alia	Yes! Only with our powers combined can Le Monsieur be defeated!	game/script.rpy	69
+Yep_90993016	mateo	And, what are these powers?	game/script.rpy	70
+Yep_d655aba0	ale	We control graphics that lie outside of photorealism. We breathe the Breath of the Wild. We control…CELL SHADERS!	game/script.rpy	71
+Yep_a20cefa7		...	game/script.rpy	72
+Yep_0a070787	mateo	Floop.	game/script.rpy	73
+Yep_0a0a8742	mateo	I mean..	game/script.rpy	74
+Yep_b4ba072c	mateo	I'll try to free you.	game/script.rpy	75
+Yep_d4dc74d8	mateo	I guess.	game/script.rpy	76
+Yep_c81b72c2		The Shaderlords are trapped in an ofGLPrison(). What do you do?	game/script.rpy	77
+open_438a255f		You try to look up this particular Open Frameworks method, but there’s no good documentation online!	game/script.rpy	85
+buttonmash_5ea522fa	mateo	Urgh! Not again, I guess I'm gonna have to wing it	game/script.rpy	91
+buttonmash_cc6d7339		*Mashes buttons blindly*	game/script.rpy	92
+buttonmash_5831cc7a		Amazingly....it works	game/script.rpy	93
+buttonmash_1de9e34d		In a flurry of keystrokes, with the power of Open Frameworks, you quickly resolve the Segmentation Fault that was keeping the Cell Lords trapped.	game/script.rpy	94
+buttonmash_8e051e19	ale	Free at last! we’re going to defeat Le Monsieur, we need more than just Cell Shaders. If only we knew where the other Shaderlords were trapped, we could free them all!	game/script.rpy	95
+buttonmash_67aef7aa	mateo	I mean, I met these two weird Meshes, and they gave me a mip_map with all the Shaderlords’ locations. The closest ones to us are the Phong shaders in the Baraha	game/script.rpy	96
+buttonmash_89877b53	alia	Yalla! Or, as Google Translate tells me they say in Spanish, “estas usando este software de traducción de forma incorrecta. por favor, consulta el manual”	game/script.rpy	97
+buttonmash_9f5f6faa	ale	That’s not...okay, nevermind. We have a sassy overlord to defeat!	game/script.rpy	98
+buttonmash_c6219223		You enter the Living Room. Two people there seem to be playing a game on the projector screen. At least, they’re trying to..	game/script.rpy	99
+buttonmash_0f94bee0	grace	God dammit where is the last clue!!	game/script.rpy	102
+buttonmash_d5439f87	mateo	(Heh she just lost the game)	game/script.rpy	103
+buttonmash_a88d3301	harshini	We've been here for hours	game/script.rpy	104
+buttonmash_cc61ae0c		They appear to be trying to solve a room escape puzzle of a very familiar cabin, albeit without any colors	game/script.rpy	105
+buttonmash_d5b31c8b	shenuka	Why can’t you just leave?	game/script.rpy	106
+buttonmash_92d90f55	grace	We would but Le Monsieur has fitted us both with these bracelets that will inject us with Soparil if we leave without solving this puzzle	game/script.rpy	107
+buttonmash_7de250b3		You see that they have metal bracelets firmly attached to their left wrists	game/script.rpy	108
+buttonmash_cc6f1df5	mateo	THAT MOTHERFUCKER!!!	game/script.rpy	109
+buttonmash_de14bc75	harshini	Mateo! Please help us! We've looked everywhere!	game/script.rpy	110
+buttonmash_e2a49311	harshini	WE HAVE ONLY ONE MORE ATTEMPT LEFTTTTTTT	game/script.rpy	111
+buttonmash_addc030f	grace	We just need one more note, then we can crack the suitcase combination…	game/script.rpy	112
+buttonmash_bba6947c		Where do you look?	game/script.rpy	113
+mirror_b6e3543c		There's nothing here!	game/script.rpy	125
+mirror_68a766ff	mateo	PUTA MADRE!	game/script.rpy	126
+mirror_cdecc1f2		Where do you look next?	game/script.rpy	127
+sink_b6e3543c		There's nothing here!	game/script.rpy	136
+sink_5f9b772e		....	game/script.rpy	137
+sink_6145bc7a	mateo	PUTA MADREEE!!	game/script.rpy	138
+sink_cdecc1f2		Where do you look next?	game/script.rpy	139
+pillow_c019b269	harshini	There it is!	game/script.rpy	148
+pillow_8fa1bdbe	grace	So the code was 7485	game/script.rpy	149
+pillow_7575f430		Input code?	game/script.rpy	150
+code_d1d46719	harshini	Well...that was quick	game/script.rpy	155
+code_99257f3e		With a loud clink, the bracelets fall to the floor	game/script.rpy	156
+code_d28222cb	harshini	Yes!! We can finally leave now!	game/script.rpy	157
+code_a6d44575		With the six Shaderlords by your side, you feel confident in your ability to take on Le Monsieur	game/script.rpy	158
+code_52e8f95d	mateo	Frens, I feel confident in our ability to take on Le Monsieur!	game/script.rpy	159
+code_887947fe		Precisely	game/script.rpy	160
+code_4f53b4be	harshini	Wait! We have no hope of defeating them without them!	game/script.rpy	161
+code_7d53c89c	shenuka	Dammit. I think I know who you mean	game/script.rpy	162
+code_bf42f73d	mateo	(Heh. She just lost the game)	game/script.rpy	163
+code_be98d12f	mateo	(Wait. So did I)	game/script.rpy	164
+code_de101916	mateo	(Fuck.)	game/script.rpy	165
+code_5f9b772e		....	game/script.rpy	166
+code_a9d0e878		Dammet	game/script.rpy	167
+code_4b3c3912		There’s two graphics-lords who the Shaderlord could not trap, so instead he simply kept them distracted while he hatched his evil plan. They are Norm and Mal, keepers of normal mapping. They’re in the Arts Center, let’s go!	game/script.rpy	168
+code_5496edc0		You and your odd adventuring party make your way to the Arts Center. You feel an uneasy presence lingering in the air. The smell of cigarette smoke and dry, politically charged sarcasm fills your lungs. Le Monsieur is close. You can feel it.	game/script.rpy	169
+code_64807ed0		But, for now, you cautiously tip toe into the Howler Radio room	game/script.rpy	170
+code_754edc9d	norm	Salutations	game/script.rpy	171
+code_cbf4c582	mal	Yooooooo	game/script.rpy	172
+code_84ca1e08	mateo	Wait, are you Norm or Mal?	game/script.rpy	173
+code_076f7708	mal	Yes	game/script.rpy	174
+code_b30e0759	norm	Yep	game/script.rpy	175
+code_6a268550	mateo	No, but which one are you?	game/script.rpy	176
+code_333b3cb3	norm	Beats me haha. One of them, for sure. Hard to say. But, we are Norm and Mal	game/script.rpy	177
+code_70e8dcdd	norm	And, we have a bit of a situation on our hands	game/script.rpy	178
+code_469e53c0	grace	They've been here trying to break this linked list for ages	game/script.rpy	179
+code_1a679140	mateo	Haven't you broken it yet?	game/script.rpy	180
+code_399b39f1	norm	We would have, but there is a slight issue	game/script.rpy	181
+code_f231a0ae	mal	The code's in French	game/script.rpy	182
+code_d11cbcd5	mateo	wooOOOOwww guys	game/script.rpy	183
+head_b6e057e9		The head gets ripped off	game/script.rpy	190
+head_9768f140		The nodes go haywire!	game/script.rpy	191
+head_c81c63ac		The links shatter	game/script.rpy	192
+head_718b4fc8	mateo	Pfft you fucking pompous CS majors and your bullshit	game/script.rpy	193
+dammet_ea1459e3	mateo	DAMMET	game/script.rpy	197
+dammet_e774a072	norm	DAMMIT!	game/script.rpy	198
+dammet_a2883f7e	mal	DAMMIT!	game/script.rpy	199
+continuegame_fb46c7af		This breaks them out of the linked list	game/script.rpy	203
+continuegame_f5f74e66	norm	AHHHHHHHHHHHHH DANGLING POINTERS EVERYWHERE	game/script.rpy	204
+continuegame_9ec04ff7	mal	Calm the fuck down	game/script.rpy	205
+continuegame_22a09f3b	norm	I CANT STAND IT ANYMORE. BAD REFERENCES EVERYWHEREEEEEEEEEE	game/script.rpy	206
+continuegame_f2916dad	mateo	You guys are impossible. Let's go get rid of Le Monsieur so that I can go back to sleep please?	game/script.rpy	207
+continuegame_bcd41e9a	mal	Excellent choice!	game/script.rpy	208
+continuegame_2c315147	norm	Bleh	game/script.rpy	209
+continuegame_0d829681	norm	Sure thing	game/script.rpy	210
+continuegame_5f78a33c	ukn	Huehuehuehue	game/script.rpy	211
+continuegame_b7cf9599		An evil snicker reverberates from the surroundings	game/script.rpy	212
+continuegame_7aeea470	mateo	Huh?	game/script.rpy	213
+continuegame_63afa1e1		A strange rabbit looking creature emerges from the surroundings	game/script.rpy	214
+continuegame_7f889dda	mateo	Uhhh who the fuck are you?	game/script.rpy	215
+continuegame_32a2cdfb	bunny	Show some respect to me, you peasant! I’m the Evil Overlord (2.0) Monsieur D3P4Z and this is my domain!	game/script.rpy	216
+continuegame_73fa6e30	mateo	WHAT?! WHAT THE FUCK?!	game/script.rpy	217
+continuegame_dca04f56	d3p4z	Indeed, c’est vrai! You weren’t able to make it as an engineer, and now, you won’t make it out of here alive!	game/script.rpy	218
+continuegame_c38a57cc	grace	Not if we've got anything to say about it - literally! It's time for a sass-off D3P4Z!	game/script.rpy	219
+continuegame_ad3ef830	mateo	No. Frens, this is something I have to do alone	game/script.rpy	220
+continuegame_f823b9d9		You crack your knuckles and stare the evil French rabbit in the eyes	game/script.rpy	221
+continuegame_ad8f96d3	mateo	PUTA MADRE, COME AT ME YOU STUPID LITTLE PIECE OF USELESS SHIT	game/script.rpy	222
+continuegame_0cb4f3f0	d3p4z	Let's dansons, motherfucker	game/script.rpy	223
+continuegame_0b2b3c53		It's Sass Off Time!	game/script.rpy	224

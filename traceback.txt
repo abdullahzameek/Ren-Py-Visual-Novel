@@ -1,0 +1,40 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+After initialization, but before game start.
+  File "renpy/common/00start.rpy", line 79, in _init_language
+    renpy.change_language(language)
+  File "game/screens.rpy", line 390, in <module>
+    background none
+NameError: name 'none' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "D:\renpy-6.99.14.1-sdk\renpy\bootstrap.py", line 306, in bootstrap
+    renpy.main.main()
+  File "D:\renpy-6.99.14.1-sdk\renpy\main.py", line 523, in main
+    run(restart)
+  File "D:\renpy-6.99.14.1-sdk\renpy\main.py", line 71, in run
+    renpy.translation.init_translation()
+  File "D:\renpy-6.99.14.1-sdk\renpy\translation\__init__.py", line 510, in init_translation
+    renpy.store._init_language()  # @UndefinedVariable
+  File "renpy/common/00start.rpy", line 79, in _init_language
+    renpy.change_language(language)
+  File "D:\renpy-6.99.14.1-sdk\renpy\translation\__init__.py", line 588, in change_language
+    new_change_language(tl, language)
+  File "D:\renpy-6.99.14.1-sdk\renpy\translation\__init__.py", line 558, in new_change_language
+    i.apply()
+  File "D:\renpy-6.99.14.1-sdk\renpy\ast.py", line 2349, in apply
+    value = renpy.python.py_eval(expr)
+  File "D:\renpy-6.99.14.1-sdk\renpy\python.py", line 1843, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "D:\renpy-6.99.14.1-sdk\renpy\python.py", line 1836, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/screens.rpy", line 390, in <module>
+    background none
+NameError: name 'none' is not defined
+
+Windows-8-6.2.9200
+Ren'Py 6.99.14.1.3218
+TheMatJuMonExperience 1.0
+Sat Jun 09 01:07:10 2018
